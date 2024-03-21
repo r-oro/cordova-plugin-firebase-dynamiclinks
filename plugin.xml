@@ -93,8 +93,8 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         <config-file target="config.xml" parent="/*">
             <preference name="AndroidLaunchMode" value="singleTask" />
             <preference name="AndroidXEnabled" value="true" />
-            <preference name="GradlePluginGoogleServicesEnabled" value="true" />
-            <preference name="GradlePluginGoogleServicesVersion" value="4.4.0" />
+         <!--   <preference name="GradlePluginGoogleServicesEnabled" value="true" />
+            <preference name="GradlePluginGoogleServicesVersion" value="4.4.0" /> -->
         </config-file>
 
         <config-file target="AndroidManifest.xml" parent="/manifest/application/activity">
